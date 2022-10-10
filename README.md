@@ -6,7 +6,12 @@ I am a teenager with free time (looking for connections and opportunities) who's
 
 ### Projects:
 
-
+| Name | Description | Repository |
+| --- | --- | --- |
+|Zap | A mashup of all my favorite features from others lang + experimental syntax | https://github.com/AlkalineTechnologies/Zap |
+|Yottsu | "A rhythm game with four quadrants of fun"| https://github.com/plasmarad/Yottsu |
+|Simplarg| "A simple header-only argument parser for your C++ projects" | https://github.com/plasmarad/Simplarg |
+|LoveLetter |algorithm based on how my parents would encrypt their love letters |https://github.com/plasmarad/LoveLetter |
 #### Languages:
 - C++
 - Java
