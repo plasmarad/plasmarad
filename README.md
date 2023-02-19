@@ -2,12 +2,12 @@
 Here you can find a collection of my personal projects, contributions to open source projects, and other code that I've worked on.
 Here are a few of my recent projects:
 
-| Name       	| Description                              	| link                                            	|
-|------------	|------------------------------------------	|-------------------------------------------------	|
-| PCLT       	| Project framework with a Package manager 	| https://github.com/AlkalineTechnologies/Polaris 	|
-| LoveLetter 	| Encryption method                        	| https://github.com/plasmarad/LoveLetter         	|
-| Zap        	| Experimental language                    	| https://github.com/AlkalineTechnologies/Zap     	|
-| Scawir     	| "Shitty calculator app written in Rust"  	| https://github.com/plasmarad/Scawir             	|
+| Name       	| Description                              	              | link                                            	|
+|------------	|--------------------------------------------------------	|-------------------------------------------------	|
+| PCLT       	| Project framework with a Package manager 	              | https://github.com/AlkalineTechnologies/Polaris 	|
+| LoveLetter 	| Encryption method                        	              | https://github.com/plasmarad/LoveLetter         	|
+| Zap        	| [private atm] Experimental language                    	| https://github.com/AlkalineTechnologies/Zap     	|
+| Scawir     	| [private atm] "Shitty calculator app written in Rust"  	| https://github.com/plasmarad/Scawir             	|
 
 You can find more of my projects on my GitHub profile.
 
