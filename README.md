@@ -18,9 +18,7 @@ Also, if you find an issue in any of my repositories and want to fix it yourself
 
 
 # 📫 Contact 
-Feel free to personally 
-[contact me][mailto:contact@plasmarad.me]
-
+Feel free to personally [contact me](mailto:contact@plasmarad.me)
 
 # 📚 Skills 
 
@@ -47,4 +45,4 @@ Feel free to personally
   * VSCode
   * Unity
 
-# 
+##### __[EOF]__
