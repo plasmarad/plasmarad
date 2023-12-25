@@ -1,3 +1,5 @@
+
+<!---
 # Welcome
 Here you can find a collection of my personal projects, contributions to open source projects, and other code that I've worked on.
 Here are a few of my recent projects:
@@ -45,3 +47,4 @@ Feel free to personally contact me at: contact@plasmarad.me
   * Unity
 
 ##### __[EOF]__
+--->
