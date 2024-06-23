@@ -1,50 +1,34 @@
+# This is me:
+Human Languages: 
+* Spanish (LATAM)
+* English (US)
 
-<!---
-# Welcome
-Here you can find a collection of my personal projects, contributions to open source projects, and other code that I've worked on.
-Here are a few of my recent projects:
+## Projects
+| Name    | Desc.                                                                                                                       | Type                   | Where to find.     | Tech used.              |
+|---------|-----------------------------------------------------------------------------------------------------------------------------|------------------------|--------------------|-------------------------|
+| Makina  | Remnants of a lost race, In the remnants of<br>a lost world. Venture into a new old world.<br>[ More to be Disclosed soon ] | Game                   | To Be Open Sourced | C#, FlaxEngine, Blender |
+| Scawir  | GUI Text editor made with rust and SlintUI.                                                                                 | Text Editor            | To Be Open Sourced | SlintUI, Rust           |
+| Durango | Language with elements of:<br>C++, Python, and JSON                                                                         | Programming Language   | To Be Open Sourced | C++, LLVM               |
 
-| Name       	| Description                              	              | link                                            	|
-|------------	|--------------------------------------------------------	|-------------------------------------------------	|
-| PCLT       	| Project framework with a Package manager 	              | https://github.com/AlkalineTechnologies/Polaris 	|
-| Zap        	| [private atm] Experimental language                    	| https://github.com/AlkalineTechnologies/Zap     	|
-| Scawir     	| [private atm] "Shitty calculator app written in Rust"  	| https://github.com/plasmarad/Scawir             	|
+Programming Languages:
+* ![](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
+* ![](https://img.shields.io/badge/-CSharp-purple?logo=csharp)
+* ![](https://img.shields.io/badge/-Python-gold?logo=python)
+* ![](https://img.shields.io/badge/-JavaScript-black?logo=javascript)
 
-You can find more of my projects on my GitHub profile.
+Software Experience:
+* ![Static Badge](https://img.shields.io/badge/-VSCode-white?style=flat&logo=visualstudiocode&logoColor=blue&labelColor=black&color=gray)
+* ![Static Badge](https://img.shields.io/badge/-Sketchup-blue?style=flat&logo=sketchup&labelColor=black&logoColor=blue)
+* ![Static Badge](https://img.shields.io/badge/-Blender-orange?style=flat&logo=blender&labelColor=black)
+* ![Static Badge](https://img.shields.io/badge/-Git-red?style=flat&logo=git&labelColor=black)
+* ![Static Badge](https://img.shields.io/badge/-Linux-white?style=flat&logo=linux&labelColor=black)
+  * ![Static Badge](https://img.shields.io/badge/-ARCH-darkblue?style=flat&logo=archlinux&labelColor=black)
+  * ![Static Badge](https://img.shields.io/badge/-Ubuntu-darkorange?style=flat&logo=kubuntu&labelColor=black)
+* ![Static Badge](https://img.shields.io/badge/-FlaxEngine-blue)
 
-# 🤝 Contributions:
-I welcome contributions to any of my open source projects! Please feel free to submit pull requests or open issues if you find any bugs or have suggestions for improvement.
 
-Also, if you find an issue in any of my repositories and want to fix it yourself, you can create a fork of the repository, make the changes, and submit a pull request.
-
-
-# 📫 Contact 
-Feel free to personally contact me at: contact@plasmarad.me
-
-# 📚 Skills 
-
-  ***Programming Language: (order of use)***
-  * C/C++
-  * ~~Rust (I wish i could say no)~~
-  * JS/TS + HTML/CSS
-  * Python
-  * C#
-  * Java 
-
-  ***Frameworks, Libraries & Tools***
-  * ImGUI     
-  * Console   
-  * GLFW      
-  * Xlib/XCB  
-  * GTK       
-  * Unity     
-  
-  ***Programs I use:***
-  * Git
-  * Blender
-  * Sketchup
-  * VSCode
-  * Unity
-
-##### __[EOF]__
---->
+# Project Shoutout
+| Name       | Type        | Where to find.                                                                                                              |
+|------------|-------------|-----------------------------------------------------------------------------------------------------------------------------|
+| FlaxEngine | Game Engine | [Repo](https://github.com/FlaxEngine/FlaxEngine)<br>[Discord](https://discord.gg/flax)<br>[Website](https://flaxengine.com) |
+| SlintUI    | UI Library  | [Repo](https://github.com/slint-ui/slint)<br>[Website](https://slint.dev)                                                   |
