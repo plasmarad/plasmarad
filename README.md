@@ -4,11 +4,11 @@ Human Languages:
 * English (US)
 
 ## Projects
-| Name    | Desc.                                                                                                                       | Type                   | Where to find.     | Tech used.              |
-|---------|-----------------------------------------------------------------------------------------------------------------------------|------------------------|--------------------|-------------------------|
-| Makina  | Remnants of a lost race, In the remnants of<br>a lost world. Venture into a new old world.<br>[ More to be Disclosed soon ] | Game                   | To Be Open Sourced | C#, FlaxEngine, Blender |
-| Scawir  | GUI Text editor made with rust and SlintUI.                                                                                 | Text Editor            | To Be Open Sourced | SlintUI, Rust           |
-| Durango | Language with elements of:<br>C++, Python, and JSON                                                                         | Programming Language   | To Be Open Sourced | C++, LLVM               |
+| Name    | Desc.                                                                                                                       | Type                   | Where to find.                                                                | Tech used.              |
+|---------|-----------------------------------------------------------------------------------------------------------------------------|------------------------|-------------------------------------------------------------------------------|-------------------------|
+| Makina  | Remnants of a lost race, In the remnants of<br>a lost world. Venture into a new old world.<br>[ More to be Disclosed soon ] | Game                   | [AlkalineTechnologies/Makina](https://github.com/AlkalineTechnologies/Makina) | C#, FlaxEngine, Blender |
+| Scawir  | GUI Text editor made with rust and SlintUI.                                                                                 | Text Editor            | To Be Open Sourced                                                            | SlintUI, Rust           |
+| Durango | Language with elements of:<br>C++, Python, and JSON                                                                         | Programming Language   | To Be Open Sourced                                                            | C++, LLVM               |
 
 Programming Languages:
 * ![](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
